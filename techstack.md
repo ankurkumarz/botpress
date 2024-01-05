@@ -144,7 +144,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/botpress](https://github.com/ankurkumarz/botpress)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|243<br/>Tools used|12/14/23 <br/>Report generated|
+|247<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -775,9 +775,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (170)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (174)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (170)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (174)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -829,6 +829,8 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-stage-3](https://www.npmjs.com/babel-preset-stage-3)|v6.24.1|03/03/20|Yann Allard |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|10/08/19|allardy |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.18.3|03/18/19|Sylvain Perron |MIT|N/A|
+|[brace](https://www.npmjs.com/brace)|v0.11.1|11/26/18|Sylvain Perron |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|09/27/18|Sylvain Perron |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|11/12/18|Sylvain Perron |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v2.0.4|09/27/18|Sylvain Perron |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.6|11/09/18|Yann Allard |MIT|N/A|
@@ -872,6 +874,7 @@ Full tech stack [here](/techstack.md)
 |[history](https://www.npmjs.com/history)|v4.9.0|07/19/19|allardy |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v4.0.0|03/03/20|Yann Allard |MIT|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v2.2.2|11/06/19|Sylvain Perron |MIT|[](https://github.com/advisories/GHSA-pc5p-h8pf-mvwp) (Moderate)|
+|[husky](https://www.npmjs.com/husky)|v1.3.1|11/01/18|Renaud Lainé |MIT|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.23|11/26/18|Sylvain Perron |MIT|N/A|
 |[immutable](https://www.npmjs.com/immutable)|v3.8.2|07/14/19|Francois-Xavier P. Darveau |MIT|N/A|
 |[inversify](https://www.npmjs.com/inversify)|v4.14.0|04/20/20|Yann Allard |MIT|N/A|
@@ -883,6 +886,7 @@ Full tech stack [here](/techstack.md)
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v5.4.1|02/21/20|Yann Allard |MIT|[CVE-2022-23529](https://github.com/advisories/GHSA-27h2-hvpr-p74q) (High)<br/>[CVE-2022-23539](https://github.com/advisories/GHSA-8cf7-32gw-wr33) (Moderate)<br/>[CVE-2022-23540](https://github.com/advisories/GHSA-qwph-4952-7xr6) (Moderate)<br/>[CVE-2022-23541](https://github.com/advisories/GHSA-hjrf-2m68-5959) (Moderate)|
 |[jszip](https://www.npmjs.com/jszip)|v3.2.2|11/06/19|Sylvain Perron |MIT,GPL-3.0|[CVE-2022-48285](https://github.com/advisories/GHSA-36fh-84j7-cv5h) (High)<br/>[CVE-2021-23413](https://github.com/advisories/GHSA-jg8v-48h5-wgxg) (Moderate)|
 |[knex](https://www.npmjs.com/knex)|v0.20.1|11/08/19|Simon-Pierre Gingras |MIT|[CVE-2016-20018](https://github.com/advisories/GHSA-4jv9-3563-23j3) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.1.5|04/11/20|Alex Pletnov |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.3|08/21/19|Sylvain Perron |ISC|N/A|
 |[mathjs](https://www.npmjs.com/mathjs)|v5.10.3|04/15/19|Sylvain Perron |Apache-2.0|[CVE-2020-7743](https://github.com/advisories/GHSA-x2fc-mxcx-w4mf) (High)|
 |[mime](https://www.npmjs.com/mime)|v1.4.1|02/19/20|Simon-Pierre Gingras |MIT|N/A|
