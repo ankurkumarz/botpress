@@ -2,7 +2,7 @@ repo_name: ankurkumarz/botpress
 report_id: 581340fc65cf37ffaa90eaed3ee28115
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:26:18+00:00'
+timestamp: '2024-02-29T19:02:13+00:00'
 requested_by: EFF
 provider: github
 branch: master
@@ -122,7 +122,7 @@ tools:
   last_updated_by: Ahmed Ashour
   last_updated_on: 2020-01-27 17:12:16.000000000 Z
 - name: DraftJS
-  description: 'A framework for building rich text editors '
+  description: A framework for building rich text editors
   website_url: https://draftjs.org
   version: 0.10.5
   license: MIT
@@ -530,7 +530,7 @@ tools:
   last_updated_by: Renaud Lainé
   last_updated_on: 2018-07-18 19:04:55.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
@@ -3361,13 +3361,6 @@ tools:
   last_updated_by: Sylvain Perron
   last_updated_on: 2018-09-27 16:12:32.000000000 Z
   vulnerabilities:
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37712
-    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
-    detected_date: Sep 1
-    severity: high
-    first_patched: 4.4.18
   - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
       sanitization
     cve_id: CVE-2021-37713
@@ -3375,26 +3368,12 @@ tools:
     detected_date: Sep 1
     severity: high
     first_patched: 4.4.18
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning
-    cve_id: CVE-2021-32803
-    cve_url: https://github.com/advisories/GHSA-r628-mhmh-qjhw
-    detected_date: Aug 22
-    severity: high
-    first_patched: 3.2.3
   - name: Arbitrary File Overwrite in tar
     cve_id: CVE-2018-20834
     cve_url: https://github.com/advisories/GHSA-j44m-qm6p-hp7m
     detected_date: Aug 22
     severity: high
     first_patched: 2.2.2
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37701
-    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
-    detected_date: Sep 1
-    severity: high
-    first_patched: 4.4.16
   - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
     cve_id: CVE-2021-32804
     cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
